@@ -39,7 +39,11 @@ I’m constantly tweaking my code, even if it’s perfect. 😄
 
 | **Frontend** | **Backend** | **Databases** | **DevOps** |
 |--------------|-------------|---------------|------------|
-| ![Frontend Progress](https://progress-bar.dev/85/?title=Frontend&color=61DAFB) | ![Backend Progress](https://progress-bar.dev/75/?title=Backend&color=orange) | ![Database Progress](https://progress-bar.dev/70/?title=Databases&color=green) | ![DevOps Progress](https://progress-bar.dev/60/?title=DevOps&color=blue) |
+| ![Frontend Progress](https://img.shields.io/badge/Frontend-85%25-brightgreen)
+![Backend Progress](https://img.shields.io/badge/Backend-75%25-orange)
+![Database Progress](https://img.shields.io/badge/Databases-70%25-yellowgreen)
+![DevOps Progress](https://img.shields.io/badge/DevOps-60%25-lightblue)
+) |
 
 ---
 
