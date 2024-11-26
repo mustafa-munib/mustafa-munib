@@ -43,7 +43,7 @@ I’m constantly tweaking my code, even if it’s perfect. 😄
 ---
 
 ## 📊 GitHub Stats:  
-![Mustafa's GitHub Stats]([(https://github.com/mustafa-munib/mustafa-munib)])  
+![Mustafa's GitHub Stats]([(https://github-readme-stats.vercel.app/api?mustafa-munib/mustafa-munib)])  
 
 ---
 
