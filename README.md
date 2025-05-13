@@ -55,14 +55,4 @@ I'm always refining my code, even when it’s “perfect.” 😄
 
 ---
 
-## 🤝 Contributing
 
-I'm always happy to contribute to open-source projects! If you'd like to collaborate, here's how you can contribute to my repositories:
-
-1. **Fork the Repo**  
-   Click the fork button on the top right of the repository page.
-   
-2. **Clone Your Fork Locally**  
-   Clone your fork to your local machine:
-   ```bash
-   git clone https://github.com/your-username/repo-name.git
