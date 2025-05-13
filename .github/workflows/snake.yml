@@ -1,9 +1,12 @@
-name: 🐍 Generate Snake Animation
+name: Generate Snake Animation
+
+permissions:
+  contents: write  # 👈 this allows the bot to push to the output branch
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
-  workflow_dispatch: # allow manual trigger
+    - cron: "0 0 * * *"  # runs daily
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -18,7 +21,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
