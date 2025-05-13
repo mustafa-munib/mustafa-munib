@@ -13,21 +13,21 @@ I’m diving into **Next.js (App Router)**, **AI Integrations**, and mastering *
 JavaScript, React, Node.js, Tailwind CSS, Mongoose, Authentication (JWT, Clerk), and full-stack web application development.
 
 📫 **Reach Out To Me:**  
-[mustafahussaini754@gmail.com](mailto:mustafahussaini754@gmail.com)
+📧 [mustafahussaini754@gmail.com](mailto:mustafahussaini754@gmail.com)
 
 ⚡ **Fun Fact:**  
 I'm always refining my code, even when it’s “perfect.” 😄
 
 ---
 
-## 🌐 Connect with Me:
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-hussaini/)
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mustafa40204509)
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 | **Frontend** | **Backend** | **Database** | **Tools & Platforms** |
 |--------------|-------------|--------------|------------------------|
@@ -37,41 +37,43 @@ I'm always refining my code, even when it’s “perfect.” 😄
 
 ---
 
-## 🏆 My Progress:
+## 🏆 My Progress
 
 | **Frontend** | **Backend** | **Databases** | **DevOps** |
 |--------------|-------------|---------------|------------|
-| ![Frontend Progress](https://img.shields.io/badge/Frontend-B%2B-brightgreen) | ![Backend Progress](https://img.shields.io/badge/Backend-B%2B-orange) | ![Database Progress](https://img.shields.io/badge/Databases-B-yellowgreen) | ![DevOps Progress](https://img.shields.io/badge/DevOps-B-lightblue) |
+| ![Frontend Progress](https://img.shields.io/badge/Frontend-85%25-brightgreen) | ![Backend Progress](https://img.shields.io/badge/Backend-75%25-orange) | ![Database Progress](https://img.shields.io/badge/Databases-70%25-yellowgreen) | ![DevOps Progress](https://img.shields.io/badge/DevOps-60%25-lightblue) |
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 | ![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-munib&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-munib&layout=compact&theme=radical) |
-|---------------------------------|---------------------------------------|
+|----------------------------------|----------------------------------------|
 
 ---
 
-## 🔝 Top Contributed Repo:
+## 🐍 GitHub Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/mustafa-munib/mustafa-munib/output/github-snake.svg)
+
+---
+
+## 🔝 Top Contributed Repo
 
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=mustafa-munib&repo=top-repo-name&theme=radical)](https://github.com/mustafa-munib/top-repo-name)
 
 ---
 
-## 🐍 GitHub Activity Snake
-
-![Snake animation](https://github.com/mustafa-munib/mustafa-munib/blob/output/github-snake.svg)
-
----
-
 ## 🤝 Contributing
 
-If you'd like to contribute to any of my projects:
-1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature/yourFeatureName`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/yourFeatureName`.
-5. Open a Pull Request.
+Contributions, issues and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/mustafa-munib/mustafa-munib/issues).  
 
----
+If you'd like to contribute:
 
+```bash
+1. Fork the repo
+2. Create your feature branch (git checkout -b feature/AmazingFeature)
+3. Commit your changes (git commit -m 'Add some AmazingFeature')
+4. Push to the branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
