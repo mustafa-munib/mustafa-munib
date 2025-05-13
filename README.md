@@ -4,7 +4,7 @@
 I'm building a modern portfolio inspired by VS Code, utilizing **React** and **Tailwind CSS** to showcase my projects and skills.
 
 👯 **Looking To Collaborate On:**  
-I’m open to collaborating on **open-source projects** that focus on **web development**, **UI/UX** design, and **documentation improvement**.
+I’m open to collaborating on **open-source projects** that focus on **web development**, **UI/UX design**, and **documentation improvement**.
 
 🌱 **Learning & Exploring:**  
 I’m diving into **Next.js (App Router)**, **AI Integrations**, and mastering **advanced Tailwind CSS** to create scalable and responsive applications.
@@ -13,7 +13,10 @@ I’m diving into **Next.js (App Router)**, **AI Integrations**, and mastering *
 JavaScript, React, Node.js, Tailwind CSS, Mongoose, Authentication (JWT, Clerk), and full-stack web application development.
 
 📫 **Reach Out To Me:**  
-📧 [mustafahussaini754@gmail.com](mailto:mustafahussaini754@gmail.com)
+[mustafahussaini754@gmail.com](mailto:mustafahussaini754@gmail.com)
+
+🎓 **Education:**  
+Bachelor's in Computer Science (Grade: B+)
 
 ⚡ **Fun Fact:**  
 I'm always refining my code, even when it’s “perfect.” 😄
@@ -22,7 +25,7 @@ I'm always refining my code, even when it’s “perfect.” 😄
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-hussaini/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-hussaini/)  
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mustafa40204509)
 
 ---
@@ -48,13 +51,13 @@ I'm always refining my code, even when it’s “perfect.” 😄
 ## 📊 GitHub Stats
 
 | ![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-munib&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-munib&layout=compact&theme=radical) |
-|----------------------------------|----------------------------------------|
+|---------------------------------|---------------------------------------|
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake (Dark Mode)
 
-![GitHub Snake](https://raw.githubusercontent.com/mustafa-munib/mustafa-munib/output/github-snake.svg)
+![GitHub Snake dark](https://github.com/mustafa-munib/mustafa-munib/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -66,14 +69,16 @@ I'm always refining my code, even when it’s “perfect.” 😄
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/mustafa-munib/mustafa-munib/issues).  
+Contributions are welcome! If you have ideas to improve this README or want to collaborate on a project, feel free to [open an issue](https://github.com/mustafa-munib/mustafa-munib/issues) or [submit a pull request](https://github.com/mustafa-munib/mustafa-munib/pulls).
 
-If you'd like to contribute:
+---
 
-```bash
-1. Fork the repo
-2. Create your feature branch (git checkout -b feature/AmazingFeature)
-3. Commit your changes (git commit -m 'Add some AmazingFeature')
-4. Push to the branch (git push origin feature/AmazingFeature)
-5. Open a Pull Request
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🧠 Quote of the Day
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
