@@ -55,11 +55,7 @@ I'm always refining my code, even when it’s “perfect.” 😄
 
 ---
 
-## 🐍 GitHub Contribution Snake (Dark Mode)
 
-![GitHub Snake dark](https://github.com/mustafa-munib/mustafa-munib/blob/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ## 🔝 Top Contributed Repo
 
