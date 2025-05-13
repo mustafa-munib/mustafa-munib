@@ -21,14 +21,16 @@ I'm always refining my code, even when it’s “perfect.” 😄
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-hussaini/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-hussaini/)
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mustafa40204509)
 
 ---
 
 ## 💻 Tech Stack:
+
 | **Frontend** | **Backend** | **Database** | **Tools & Platforms** |
-|--------------|-------------|--------------|-----------------------|
+|--------------|-------------|--------------|------------------------|
 | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
 | ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black) |
 | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) | ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
@@ -39,7 +41,7 @@ I'm always refining my code, even when it’s “perfect.” 😄
 
 | **Frontend** | **Backend** | **Databases** | **DevOps** |
 |--------------|-------------|---------------|------------|
-| ![Frontend Progress](https://img.shields.io/badge/Frontend-85%25-brightgreen) | ![Backend Progress](https://img.shields.io/badge/Backend-75%25-orange) | ![Database Progress](https://img.shields.io/badge/Databases-70%25-yellowgreen) | ![DevOps Progress](https://img.shields.io/badge/DevOps-60%25-lightblue) |
+| ![Frontend Progress](https://img.shields.io/badge/Frontend-B%2B-brightgreen) | ![Backend Progress](https://img.shields.io/badge/Backend-B%2B-orange) | ![Database Progress](https://img.shields.io/badge/Databases-B-yellowgreen) | ![DevOps Progress](https://img.shields.io/badge/DevOps-B-lightblue) |
 
 ---
 
@@ -51,8 +53,25 @@ I'm always refining my code, even when it’s “perfect.” 😄
 ---
 
 ## 🔝 Top Contributed Repo:
+
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=mustafa-munib&repo=top-repo-name&theme=radical)](https://github.com/mustafa-munib/top-repo-name)
 
 ---
 
+## 🐍 GitHub Activity Snake
+
+![Snake animation](https://github.com/mustafa-munib/mustafa-munib/blob/output/github-snake.svg)
+
+---
+
+## 🤝 Contributing
+
+If you'd like to contribute to any of my projects:
+1. Fork the repository.
+2. Create your feature branch: `git checkout -b feature/yourFeatureName`.
+3. Commit your changes: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature/yourFeatureName`.
+5. Open a Pull Request.
+
+---
 
