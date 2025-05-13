@@ -1,28 +1,28 @@
 # 💫 About Me:
 
-🔭 **I’m currently working on:**  
-Building a modern portfolio website inspired by VS Code, using React and Tailwind CSS to showcase my skills and projects effectively.  
+🔭 **Current Focus:**  
+I'm building a modern portfolio website inspired by the VS Code interface, leveraging React and Tailwind CSS to effectively showcase my skills and projects.  
 
-👯 **I’m looking to collaborate on:**  
-Open source projects, especially those focused on web development, user interfaces, and documentation improvements.  
+👯 **Collaboration Interests:**  
+I’m eager to contribute to open-source projects, particularly those centered around web development, UI/UX design, and documentation enhancement.
 
-🌱 **I’m currently learning:**  
-Next.js (App Router), AI integrations, and advanced Tailwind CSS for building scalable, responsive web applications.  
+🌱 **Learning & Growth:**  
+Currently diving deep into **Next.js (App Router)**, AI integrations, and **advanced Tailwind CSS** for crafting scalable, responsive web applications.
 
-💬 **Ask me about:**  
-JavaScript, React, Node.js, Tailwind CSS, Mongoose, Authentication (JWT, Clerk), and building full-stack applications.  
+💬 **Ask Me About:**  
+JavaScript, React, Node.js, Tailwind CSS, Mongoose, Authentication (JWT, Clerk), and full-stack application development.
 
-📫 **How to reach me:**  
-[mustafahussaini754@gmail.com](mailto:mustafahussaini754@gmail.com)  
+📫 **How to Reach Me:**  
+[mustafahussaini754@gmail.com](mailto:mustafahussaini754@gmail.com)
 
-⚡ **Fun fact:**  
-I’m constantly tweaking my code, even if it’s perfect. 😄  
+⚡ **Fun Fact:**  
+I’m always refining my code, even when it’s already perfect. 😄
 
 ---
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-hussaini/)  
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mustafa40204509)  
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mustafa40204509)
 
 ---
 
@@ -39,11 +39,7 @@ I’m constantly tweaking my code, even if it’s perfect. 😄
 
 | **Frontend** | **Backend** | **Databases** | **DevOps** |
 |--------------|-------------|---------------|------------|
-| ![Frontend Progress](https://img.shields.io/badge/Frontend-85%25-brightgreen)
-![Backend Progress](https://img.shields.io/badge/Backend-75%25-orange)
-![Database Progress](https://img.shields.io/badge/Databases-70%25-yellowgreen)
-![DevOps Progress](https://img.shields.io/badge/DevOps-60%25-lightblue)
-) |
+| ![Frontend Progress](https://img.shields.io/badge/Frontend-85%25-brightgreen) | ![Backend Progress](https://img.shields.io/badge/Backend-75%25-orange) | ![Database Progress](https://img.shields.io/badge/Databases-70%25-yellowgreen) | ![DevOps Progress](https://img.shields.io/badge/DevOps-60%25-lightblue) |
 
 ---
 
@@ -56,4 +52,3 @@ I’m constantly tweaking my code, even if it’s perfect. 😄
 
 ## 🔝 Top Contributed Repo:
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=mustafa-munib&repo=top-repo-name&theme=radical)](https://github.com/mustafa-munib/top-repo-name)
-
